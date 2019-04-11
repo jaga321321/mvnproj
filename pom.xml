@@ -31,7 +31,7 @@
     </developers>
     <distributionManagement>
         <repository>
-            <id>nexus</id>
+            <id>1234</id>
             <name>Internal Releases</name>
             <url>http://54.180.102.33:8081/repository/nexus_spring/</url>
         </repository>
